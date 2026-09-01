@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-
+This assignment's objective was to design and model a planar truss for a scenario with the following geometry and forces:
 
 ## Analyze
 
