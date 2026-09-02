@@ -4,7 +4,7 @@
 This assignment's objective was to design and model a planar truss for a scenario with the following geometry and forces:
 
 ## Analyze
-I started by designing an symmetrical truss system consisting of 6 elements as follows: #insert picture here
+I started by designing a symmetrical truss system consisting of 6 elements as follows: #insert picture here
 
 ## Decide
 _Which geometry did you select, and why? This is your first open design choice in the course — defend it._
