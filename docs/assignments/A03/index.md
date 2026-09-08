@@ -1,7 +1,7 @@
 # A3 – Parametric Design & Finite Element Analysis
 
 ## Part 1 - Design
-After first reading through the assignment, I started by opening a Solidworks Part file and saving it. I am going to work off of the right plane so I toggled it so it was visible.
+After first reading through the assignment, I started by opening a Solidworks Part file and saving it. I was going to work off of the right plane so I toggled it so it was visible.
 
 I started by writing out the equation for deflection due to direction tensile or compressive force. I confirmed that the units cancelled out to produce inches, and made two initial sketches of the scenario. I also wrote out the given parameters from the assignment.
 
