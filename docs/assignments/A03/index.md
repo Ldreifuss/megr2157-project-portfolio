@@ -1,13 +1,15 @@
 # A3 – Parametric Design & Finite Element Analysis
 
-## Objective
+## Part 1 - Design
 
 
-## Analyze
+## Part 2 - Finite Element Analysis
 
 
-## Decide
+## Part 3 - Design Reflection
 
 
-## Communicate
+## Part 4 
 
+
+## Part 5 - Modifying Parameters
