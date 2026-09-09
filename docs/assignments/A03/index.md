@@ -6,6 +6,10 @@ After first reading through the assignment, I started by opening a Solidworks Pa
 I started by writing out the equation for deflection due to direction tensile or compressive force. I confirmed that the units cancelled out to produce inches, and made two initial sketches of the scenario. I also wrote out the given parameters from the assignment.
 
 I made the decision that the applied force would be 500 lbs, the width of the bar would be 0.500 inches, and Young’s Modulus for the bar would be 11.5x10^6 psi. After solving the deflection equation for length and plugging in my chosen values for F, e, A, and Young’s Modulus (E), I found that the length of the bar was going to be 40.64 inches. I thought that this was incorrect, so I changed my decision for the value of E, selecting 8.5x10^6 psi. The result of my calculations then was 30.0406 inches.
+
+<object data="A3_Handwritten_Work_Pg1.pdf" type="application/pdf" width="100%" height="800px">
+
+
 ## Part 2 - Finite Element Analysis
 I found an “Aluminum Alloy“ with a modulus of 10.15x10^6 psi, and chose it. My calculations for the length of the bar came out to be 35.8720 inches. After doing the [solidworks analysis], the “displacement” that solidworks calculated was 0.2284 mm.
 
