@@ -10,7 +10,7 @@ I made the decision that the applied force would be 500 lbs, the width of the ba
 <img width="598" height="535" alt="image" src="https://github.com/user-attachments/assets/a0fb8fff-1f9d-4836-ad36-1b5d62f1b60a" />
 
 ## Part 2 - Finite Element Analysis
-I found an “Aluminum Alloy“ with a modulus of 10.15x10^6 psi, and chose it. My calculations for the length of the bar came out to be 35.8720 inches. After doing the [solidworks analysis], the “displacement” that solidworks calculated was 0.2284 mm.
+I found an “Aluminum Alloy“ with a modulus of 10.15x10^6 psi, and chose it. My calculations for the length of the bar came out to be 35.8720 inches. After doing the Finite Element Analysis, the “displacement” that solidworks calculated was 0.2284 mm.
 
 <img width="2263" height="1215" alt="image" src="https://github.com/user-attachments/assets/fcbacb40-107e-46ad-aea8-01cb903cebda" />
 
@@ -20,14 +20,12 @@ The following image is the Von Mises stress map for the bar:
 <img width="2272" height="1237" alt="image" src="https://github.com/user-attachments/assets/45f206b1-f63d-4b97-a836-009a5a8a0c15" />
 
 ## Part 3 - Design Reflection
-In my final iteration (where E = 10.15x10^6 psi), my hand calculations resulted in a length of 30.0406 inches with a maximum axial deflection of 0.009 inches. In the Finite Element Analysis in Solidworks, with a length of 30.0406 inches, the resulting axial deflection was 0.2284 mm which equals 0.00899 inches. The percent difference between my hand-calculated axial deflection and F.E.A. axial deflection was
+In my final iteration (where E = 10.15x10^6 psi), my hand calculations resulted in a length of 30.0406 inches with a maximum axial deflection of 0.009 inches. In the Finite Element Analysis in Solidworks, with a length of 30.0406 inches, the resulting axial deflection was 0.2284 mm which equals 0.00899 inches. The percent difference between my hand-calculated axial deflection and F.E.A. axial deflection was 0.1111%. 
 
 ## Part 4 
 
 
 ## Part 5 - Modifying Parameters
-
-In my final iteration (where E = 10.15x10^6 psi), my hand calculations resulted in a length of 30.0406 inches with a maximum axial deflection of 0.009 inches. In the Finite Element Analysis in Solidworks, with a length of 30.0406 inches, the resulting axial deflection was 0.2284 mm which equals 0.00899 inches. The percent difference between my hand-calculated axial deflection and F.E.A. axial deflection was 
 
 <img width="597" height="365" alt="image" src="https://github.com/user-attachments/assets/560d31f5-c7cf-409c-b4c9-5c3fc0b43948" />
 
