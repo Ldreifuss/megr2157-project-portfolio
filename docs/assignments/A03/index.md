@@ -23,3 +23,12 @@ In my final iteration (where E = 10.15x10^6 psi), my hand calculations resulted 
 
 
 ## Part 5 - Modifying Parameters
+
+<img width="774" height="572" alt="image" src="https://github.com/user-attachments/assets/cd7a5c8b-861c-4dc7-85a8-64c6d704a537" />
+
+<img width="872" height="593" alt="image" src="https://github.com/user-attachments/assets/ca2cbeb0-c511-481f-9062-a5cc823bed73" />
+
+<img width="875" height="588" alt="image" src="https://github.com/user-attachments/assets/7fbb5a3a-adc2-4889-a6c3-f4a84cde9994" />
+
+
+
