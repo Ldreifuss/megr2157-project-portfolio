@@ -9,6 +9,9 @@ I made the decision that the applied force would be 500 lbs, the width of the ba
 
 I found an “Aluminum Alloy“ with a modulus of 10.15x10^6 psi, and chose it. My calculations for the length of the bar came out to be 35.8720 inches. After doing the [solidworks analysis], the “displacement” that solidworks calculated was 0.2284 mm.
 
+<img width="2263" height="1215" alt="image" src="https://github.com/user-attachments/assets/fcbacb40-107e-46ad-aea8-01cb903cebda" />
+
+
 ## Part 2 - Finite Element Analysis
 
 
