@@ -15,6 +15,10 @@ I found an “Aluminum Alloy“ with a modulus of 10.15x10^6 psi, and chose it. 
 
 Given that 1 inch is equal to 25.4 mm, the calculated displacement of 0.2284 was equal to 0.00899 inches, which is 1x10^-5 inches less than the maximum axial deflection given by the problem.
 
+The following image is the Von Mises stress map for the bar:
+<img width="2272" height="1237" alt="image" src="https://github.com/user-attachments/assets/45f206b1-f63d-4b97-a836-009a5a8a0c15" />
+
+
 ## Part 3 - Design Reflection
 
 
