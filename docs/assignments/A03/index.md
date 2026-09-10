@@ -34,4 +34,4 @@ In my final iteration (where E = 10.15x10^6 psi), my hand calculations resulted 
 <img width="875" height="588" alt="image" src="https://github.com/user-attachments/assets/7fbb5a3a-adc2-4889-a6c3-f4a84cde9994" />
 
 Click here to download the Solidworks file: 
-<a href="A3_MEGR2157-L18_LDreifuss.SLDPRT" download>Click to Download</a>
+<a href="[A3_MEGR2157-L18_LDreifuss.SLDPRT](https://github.com/Ldreifuss/megr2157-project-portfolio/blob/6fa363bdc7bfc66d5e814218a4e695340c405308/A3_MEGR2157-L18_LDreifuss.SLDPRT)" download>Click to Download</a>
