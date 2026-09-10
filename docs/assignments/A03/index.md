@@ -31,9 +31,7 @@ In my final iteration (where E = 10.15x10^6 psi), my hand calculations resulted 
 
 <img width="872" height="593" alt="image" src="https://github.com/user-attachments/assets/ca2cbeb0-c511-481f-9062-a5cc823bed73" />
 
-<a href="myFile.js" download>Click to Download</a>
-
 <img width="875" height="588" alt="image" src="https://github.com/user-attachments/assets/7fbb5a3a-adc2-4889-a6c3-f4a84cde9994" />
 
 
-
+<a href="[myFile.js](https://github.com/Ldreifuss/megr2157-project-portfolio/blob/7ae2f3ea3ca87692ea7f51f48c35d5f11af4f436/A3_MEGR2157-L18_LDreifuss.SLDPRT)" download>Click to Download</a>
