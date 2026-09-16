@@ -21,3 +21,5 @@ Knowns:
 
  - Maximum Deflection = 0.30 mm
  - Force P = 300 N
+
+## 2157 Assignment
