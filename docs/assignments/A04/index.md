@@ -23,3 +23,5 @@ Knowns:
  - Force P = 300 N
 
 ## 2157 Assignment
+
+<img width="831" height="646" alt="image" src="https://github.com/user-attachments/assets/46ed7e94-8179-4e22-bdb3-1d5774fc9c40" />
