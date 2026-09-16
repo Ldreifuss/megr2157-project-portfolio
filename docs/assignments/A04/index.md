@@ -20,3 +20,4 @@ Knowns:
 Knowns: 
 
  - Maximum Deflection = 0.30 mm
+ - Force P = 300 N
