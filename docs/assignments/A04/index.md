@@ -12,9 +12,11 @@ I also added a circular cut in Feature 1 for the motor shaft.
 ## Feature #1
 
 Knowns: 
+
  - Maximum Deflection = 0.30 mm
 
 ## Feature #2
 
 Knowns: 
+
  - Maximum Deflection = 0.30 mm
