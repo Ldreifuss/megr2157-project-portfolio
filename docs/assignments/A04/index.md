@@ -7,6 +7,8 @@ I created an L-shaped bracket in Solidworks, defining my variables so that later
 
 I also added a circular cut in Feature 1 for the motor shaft.
 
+<img width="612" height="611" alt="image" src="https://github.com/user-attachments/assets/8ed55cd4-bfbc-4338-a941-e9016822e229" />
+
 ## Feature #1
 
 
