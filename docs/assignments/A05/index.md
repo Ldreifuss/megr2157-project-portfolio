@@ -1,4 +1,4 @@
-# A5 – Design for Strength & Stiffnes I
+# A5 – Design for Strength & Stiffness I
 
 ## Objective
 
