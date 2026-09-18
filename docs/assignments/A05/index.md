@@ -1,15 +1,18 @@
 # A5 – Design for Strength & Stiffness I
 
-## Objective
+## Initial Steps
 
 
-## Analyze
+## Stress Analysis
 
 
-## Decide
+## Stiffness Analysis
 
 
-## Communicate
+## Multiview Sketches
+
+
+## Lessons Learned
 
 
 ## 2157 Assignment
