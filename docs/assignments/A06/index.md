@@ -1,15 +1,15 @@
-# A6 – [Topic]
+# A6 – Bracket Drawing [Pt. 1]
 
 ## Objective
 
 
-## Analyze
+## Parametric Design
 
 
-## Decide
+## Drawing
 
 
-## Communicate
+## Reflection
 
 
 ## 2157 Assignment
