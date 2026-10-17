@@ -26,3 +26,8 @@ I used the outline of a linkage part that I created for A5 for this analysis.
 Von Mises Stress:
 
 <img width="747" height="704" alt="image" src="https://github.com/user-attachments/assets/ddb60366-417d-46e6-877e-4cae38c40fad" />
+
+
+Displacement:
+
+<img width="765" height="717" alt="image" src="https://github.com/user-attachments/assets/4e4a7f15-da1f-4f37-b55e-f2732cac8eb5" />
