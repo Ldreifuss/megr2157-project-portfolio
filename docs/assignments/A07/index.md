@@ -24,4 +24,5 @@ I used the outline of a linkage part that I created for A5 for this analysis.
 
 
 Von Mises Stress:
+
 <img width="747" height="704" alt="image" src="https://github.com/user-attachments/assets/ddb60366-417d-46e6-877e-4cae38c40fad" />
