@@ -15,6 +15,9 @@ I used the outline of a linkage part that I created for A5 for this analysis.
 
 <img width="285" height="531" alt="image" src="https://github.com/user-attachments/assets/d71149be-7189-424d-8779-de43c85c385c" />
 
+The dimensions of this part are as follows, with an extrusion length of 0.20 inches:
+<img width="437" height="535" alt="image" src="https://github.com/user-attachments/assets/85b25b79-fdcd-4545-8f7a-518604843255" />
+
 
 Von Mises Stress:
 
@@ -24,3 +27,4 @@ Von Mises Stress:
 Displacement:
 
 <img width="765" height="717" alt="image" src="https://github.com/user-attachments/assets/4e4a7f15-da1f-4f37-b55e-f2732cac8eb5" />
+
