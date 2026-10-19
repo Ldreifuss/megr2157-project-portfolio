@@ -13,7 +13,7 @@ Having not finished assignment A5, I created a basic bracket in Solidworks to pe
 ## 2157 Assignment
 I used the outline of a linkage part that I created for A5 for this analysis.
 
-<img width="285" height="531" alt="image" src="https://github.com/user-attachments/assets/d71149be-7189-424d-8779-de43c85c385c" />
+<img width="221" height="400" alt="Screenshot 2026-10-19 192444" src="https://github.com/user-attachments/assets/53e1a09a-0234-44dd-ad3d-4757d2c395d9" />
 
 The dimensions of this part are as follows, with an extrusion length of 0.20 inches:
 <img width="437" height="535" alt="image" src="https://github.com/user-attachments/assets/85b25b79-fdcd-4545-8f7a-518604843255" />
