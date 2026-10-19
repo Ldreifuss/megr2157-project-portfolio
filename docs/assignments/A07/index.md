@@ -34,7 +34,18 @@ Factor of Safety:
 <img width="718" height="734" alt="image" src="https://github.com/user-attachments/assets/0b4eccb4-7ff9-40c4-97ec-142404312f75" />
 
 I then slightly redesigned the linkage:
+
 <img width="397" height="674" alt="image" src="https://github.com/user-attachments/assets/63857ec4-768c-4462-9d92-ed0f3e706703" />
+
+
+Von Mises Stress:
+
+<img width="685" height="653" alt="image" src="https://github.com/user-attachments/assets/437c1af6-a6e6-405a-badf-529bd6ca796c" />
+
+
+Displacement:
+
+<img width="669" height="652" alt="image" src="https://github.com/user-attachments/assets/74cd76d7-90da-4f35-8400-8843b1f8adca" />
 
 
 
