@@ -18,6 +18,7 @@ I used the outline of a linkage part that I created for A5 for this analysis.
 The dimensions of this part are as follows, with an extrusion length of 0.20 inches:
 <img width="437" height="535" alt="image" src="https://github.com/user-attachments/assets/85b25b79-fdcd-4545-8f7a-518604843255" />
 
+For the initial loop, I fixed the upper hole, and applied a force of 1,200 lbs in the -z-direction to the lower hole. 
 
 Von Mises Stress:
 
@@ -28,3 +29,6 @@ Displacement:
 
 <img width="765" height="717" alt="image" src="https://github.com/user-attachments/assets/4e4a7f15-da1f-4f37-b55e-f2732cac8eb5" />
 
+Factor of Safety:
+
+<img width="718" height="734" alt="image" src="https://github.com/user-attachments/assets/0b4eccb4-7ff9-40c4-97ec-142404312f75" />
