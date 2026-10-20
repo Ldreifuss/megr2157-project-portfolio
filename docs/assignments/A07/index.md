@@ -8,7 +8,7 @@ This bracket has the following dimensions:
 
 <img width="845" height="551" alt="image" src="https://github.com/user-attachments/assets/ad684ee2-50ee-445c-9647-83d3b79952f8" />
 
-<img width="354" height="390" alt="image" src="https://github.com/user-attachments/assets/d073488c-4ae6-47ab-8e8b-ccb7afbc5d47" />
+<img width="350" height="390" alt="image" src="https://github.com/user-attachments/assets/d073488c-4ae6-47ab-8e8b-ccb7afbc5d47" />
 
 
 ## Analysis
