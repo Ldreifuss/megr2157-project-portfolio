@@ -38,7 +38,7 @@ Factor of Safety:
 
 <img width="718" height="734" alt="image" src="https://github.com/user-attachments/assets/0b4eccb4-7ff9-40c4-97ec-142404312f75" />
 
-I then slightly redesigned the linkage:
+I then slightly redesigned the linkage, increasing the ratio of the diameters of the lower section over the upper section and connecting the two:
 
 <img width="397" height="674" alt="image" src="https://github.com/user-attachments/assets/63857ec4-768c-4462-9d92-ed0f3e706703" />
 
