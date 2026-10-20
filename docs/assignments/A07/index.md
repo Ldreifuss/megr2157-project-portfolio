@@ -6,7 +6,9 @@ Having not finished assignment A5, I created a basic bracket in Solidworks to pe
 
 This bracket has the following dimensions:
 
-<img width="943" height="667" alt="image" src="https://github.com/user-attachments/assets/1a2663e6-e2c8-434a-a948-9b32eb7511aa" />
+<img width="845" height="551" alt="image" src="https://github.com/user-attachments/assets/ad684ee2-50ee-445c-9647-83d3b79952f8" />
+
+<img width="354" height="390" alt="image" src="https://github.com/user-attachments/assets/d073488c-4ae6-47ab-8e8b-ccb7afbc5d47" />
 
 
 ## Analysis
