@@ -12,6 +12,7 @@ This bracket has the following dimensions:
 
 
 ## Analysis
+For my first analysis, I fixed all 5 sides that face directly inward as shown, and applied a force of 1,200 lbs to feature A. 
 <img width="783" height="583" alt="image" src="https://github.com/user-attachments/assets/c60f9fd2-e6e8-4c77-8496-8313332e3f06" />
 
 <img width="738" height="554" alt="image" src="https://github.com/user-attachments/assets/e7b2c0b2-7adb-4455-a1fb-f8ce17b00494" />
