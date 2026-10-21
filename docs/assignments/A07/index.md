@@ -56,4 +56,6 @@ Displacement:
 <img width="669" height="652" alt="image" src="https://github.com/user-attachments/assets/74cd76d7-90da-4f35-8400-8843b1f8adca" />
 
 
+## Lessons Learned
 
+I learned that the Education edition of Solidworks does not have the same statics analysis as the regular edition. 
