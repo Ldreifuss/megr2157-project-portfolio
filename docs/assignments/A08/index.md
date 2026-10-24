@@ -6,8 +6,9 @@ I started by writing down the knowns, noting in particular the specific types of
 
 I also downloaded the Solidworks files for the pinion and gear and created an assembly file.
 
-## Analyze
+## Gearbox Design
 
+<img width="590" height="509" alt="image" src="https://github.com/user-attachments/assets/b1bad61c-4c98-4161-8257-825985da741b" />
 
 ## Decide
 
