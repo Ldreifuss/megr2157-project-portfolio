@@ -1,7 +1,8 @@
 # A8 – Gears
 
-## Objective
+## First Steps
 
+I started by writing down the knowns, noting in particular the specific types of fits for the shafts and shaft holes.
 
 ## Analyze
 
