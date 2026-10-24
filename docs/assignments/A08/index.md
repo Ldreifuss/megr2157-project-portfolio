@@ -16,3 +16,8 @@ I also downloaded the Solidworks files for the pinion and gear and created an as
 
 
 ## 2157 Assignment
+
+
+
+Link to download assembly file: https://github.com/Ldreifuss/megr2157-project-portfolio/blob/main/docs/assignments/A08/A8%20-%20Gear%20Assembly.SLDASM
+(TEST)
