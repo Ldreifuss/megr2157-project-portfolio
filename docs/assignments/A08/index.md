@@ -8,7 +8,8 @@ I also downloaded the Solidworks files for the pinion and gear and created an as
 
 ## Gearbox Design
 
-<img width="590" height="509" alt="image" src="https://github.com/user-attachments/assets/b1bad61c-4c98-4161-8257-825985da741b" />
+<img width="473" height="356" alt="image" src="https://github.com/user-attachments/assets/e03e6e24-e44a-4b0a-91e8-32a3636e7dcc" />
+
 
 ## Decide
 
