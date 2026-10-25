@@ -8,7 +8,7 @@ I also downloaded the Solidworks files for the pinion and gear and created an as
 
 ## Gearbox Design
 
-I initially made the main housing that would contain the gears too long, as you see below:
+I initially made the main housing that would contain the gears too long, as shown below:
 
 <img width="473" height="356" alt="image" src="https://github.com/user-attachments/assets/e03e6e24-e44a-4b0a-91e8-32a3636e7dcc" />
 
