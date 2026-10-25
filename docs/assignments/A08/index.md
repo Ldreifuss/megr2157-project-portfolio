@@ -12,7 +12,7 @@ I initially made the main housing that would contain the gears too long, as show
 
 <img width="473" height="356" alt="image" src="https://github.com/user-attachments/assets/e03e6e24-e44a-4b0a-91e8-32a3636e7dcc" />
 
-I then changed the length of the extrusion to 0.125 inches as a reference point.
+I then changed the length of the extrusion to 0.125 inches as a reference point, and created holes in the back face for the non-geared section of each part.
 
 <img width="382" height="361" alt="image" src="https://github.com/user-attachments/assets/67dd800c-2a24-4611-8574-bf62d3a30d23" />
 
