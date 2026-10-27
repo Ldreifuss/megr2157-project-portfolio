@@ -26,7 +26,14 @@ I then changed the length of the extrusion to 0.125 inches as a reference point,
 ## Designing Journal Bearings
 
 
+## Final CAD Model
+
+
+## Lessons Learned
+
+
 ## 2157 Assignment
+
 
 ## Link to download assembly file: (TEST)
 
