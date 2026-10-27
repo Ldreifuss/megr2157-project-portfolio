@@ -18,7 +18,6 @@ I then changed the length of the extrusion to 0.125 inches as a reference point,
 
 ## 2157 Assignment
 
+## Link to download assembly file: (TEST)
 
-
-Link to download assembly file: https://github.com/Ldreifuss/megr2157-project-portfolio/blob/main/docs/assignments/A08/A8%20-%20Gear%20Assembly.SLDASM
-(TEST)
+https://github.com/Ldreifuss/megr2157-project-portfolio/blob/main/docs/assignments/A08/A8%20-%20Gear%20Assembly.SLDASM
