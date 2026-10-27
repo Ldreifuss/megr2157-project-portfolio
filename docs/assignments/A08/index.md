@@ -18,6 +18,11 @@ I then changed the length of the extrusion to 0.125 inches as a reference point,
 <img width="382" height="361" alt="image" src="https://github.com/user-attachments/assets/67dd800c-2a24-4611-8574-bf62d3a30d23" />
 
 
+## Designing the Shafts
+
+<img width="482" height="236" alt="image" src="https://github.com/user-attachments/assets/7825648c-071b-4031-b36b-83f42f121185" />
+
+
 ## Designing Journal Bearings
 
 
