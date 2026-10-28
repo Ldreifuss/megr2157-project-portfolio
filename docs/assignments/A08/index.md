@@ -24,6 +24,8 @@ I then changed the length of the extrusion to 0.125 inches as a reference point,
 
 <img width="482" height="236" alt="image" src="https://github.com/user-attachments/assets/7825648c-071b-4031-b36b-83f42f121185" />
 
+<img width="706" height="459" alt="image" src="https://github.com/user-attachments/assets/26b7d968-3b3a-4973-9dba-6f35786f5994" />
+
 
 ## Designing Journal Bearings
 
