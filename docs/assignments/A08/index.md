@@ -30,6 +30,8 @@ I then changed the length of the extrusion to 0.125 inches as a reference point,
 
 ## Final CAD Model
 
+<img width="452" height="306" alt="image" src="https://github.com/user-attachments/assets/2f9003c5-e425-4cd0-bf56-c137f595ccaf" />
+
 
 ## Lessons Learned
 
