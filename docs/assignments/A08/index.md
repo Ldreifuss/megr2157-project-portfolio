@@ -32,6 +32,8 @@ I then changed the length of the extrusion to 0.125 inches as a reference point,
 
 ## Designing Journal Bearings
 
+I was planning on using 841 Bearing Bronze, but the McMaster website wouldn't allow me to download _any_ Solidworks files. 
+
 
 ## Final CAD Model
 
