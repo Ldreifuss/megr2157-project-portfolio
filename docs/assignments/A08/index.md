@@ -37,6 +37,9 @@ I then changed the length of the extrusion to 0.125 inches as a reference point,
 ## 2157 Assignment
 
 
+<img width="812" height="527" alt="image" src="https://github.com/user-attachments/assets/101dc355-d313-4ed3-b8c1-fb2859590249" />
+
+
 <img width="589" height="383" alt="image" src="https://github.com/user-attachments/assets/d9eefe5e-946d-48f8-b59d-3c14b936e18c" />
 
 
