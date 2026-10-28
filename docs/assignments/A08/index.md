@@ -58,6 +58,9 @@ I was planning on using 841 Bearing Bronze, but the McMaster website wouldn't al
 <img width="706" height="459" alt="image" src="https://github.com/user-attachments/assets/26b7d968-3b3a-4973-9dba-6f35786f5994" />
 
 
+<img width="695" height="451" alt="image" src="https://github.com/user-attachments/assets/f4ac50d1-cd9b-4a48-b68e-40e11063964f" />
+
+
 ## Link to download assembly file: (TEST)
 
 https://github.com/Ldreifuss/megr2157-project-portfolio/blob/main/docs/assignments/A08/A8%20-%20Gear%20Assembly.SLDASM
