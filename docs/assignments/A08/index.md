@@ -1,10 +1,15 @@
 # A8 – Gearbox Design
 
-## First Steps
+## First Steps and Fit Classes
 
 I started by writing down the knowns, noting in particular the specific types of fits for the shafts and shaft holes. I also downloaded the Solidworks files for the pinion and gear and created an assembly file.
 
 <img width="461" height="281" alt="image" src="https://github.com/user-attachments/assets/e9f46ef1-586a-4ed5-aaee-aca537afdb81" />
+
+
+I decided on the FN2 class for the press fits between the gears and their shafts, and class RC6 for the running/sliding fits for the holes that the shafts exit the gearbox through. 
+
+<img width="427" height="329" alt="image" src="https://github.com/user-attachments/assets/95477135-7416-4e71-afdb-9aa54696bf7e" />
 
 
 ## Gearbox Design
