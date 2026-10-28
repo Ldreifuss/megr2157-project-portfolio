@@ -40,6 +40,9 @@ I was planning on using 841 Bearing Bronze, but the McMaster website wouldn't al
 <img width="452" height="306" alt="image" src="https://github.com/user-attachments/assets/2f9003c5-e425-4cd0-bf56-c137f595ccaf" />
 
 
+<img width="644" height="418" alt="image" src="https://github.com/user-attachments/assets/e5914855-713d-4fea-ae8b-ce6ccfde974c" />
+
+
 ## Lessons Learned
 
 
