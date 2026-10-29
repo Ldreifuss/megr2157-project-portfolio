@@ -1,15 +1,18 @@
 # A9 – Pulley System Design
 
-## Objective
+## First Steps
 
 
-## Analyze
+## Choosing a Belt
 
 
-## Decide
+## Shaft Calculations
 
 
-## Communicate
+## Journal Bearing Design
 
 
-## 2157 Assignment
+## Frame Design
+
+
+## Lessons Learned
