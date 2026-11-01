@@ -1,7 +1,7 @@
 # A9 – Pulley System Design
 
 ## First Steps
-I started by writing down the parameters, knowns, and decisions to make for the given problem. I decided to hold off on any decisions before 
+I started by writing down the parameters, knowns, and decisions to make for the given problem. I decided to hold off on any decisions before I needed to (which I assumed would be in the process of selecting a belt).
 
 In addition, (although not required for the assignment) I created a solidworks mode of the pulley in order to better visualize the problem. 
 
