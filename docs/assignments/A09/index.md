@@ -9,7 +9,7 @@ In addition, (although not required for the assignment) I created a solidworks m
 
 
 ## Choosing a Belt
-
+Assumptions: The difference in magnitude between force 1 and force 2 is small enough to be considered negligible in the static equilibrium equations.
 
 ## Shaft Calculations
 
