@@ -7,7 +7,7 @@ In addition, (although not required for the assignment) I created a solidworks m
 
 <img width="369" height="346" alt="image" src="https://github.com/user-attachments/assets/04e642a8-6921-4d9c-b776-2e339979c0b8" />
 
-I made the decision that the operating speed would be 1000 rpms, and the static belt tension would be 4 lbf.
+I made the decision that the operating speed would be 1000 rpms, and the static belt tension would be 4 lbf. I also decided that the distance between the axles of the pulleys would be 5 inches. 
 
 ## Choosing a Belt
 Assumptions: The difference in magnitude between force 1 and force 2 is small enough to be considered negligible in the static equilibrium equations.
