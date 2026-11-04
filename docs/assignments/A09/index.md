@@ -12,6 +12,9 @@ I made the decision that the operating speed would be 1000 rpms, and the static 
 ## Choosing a Belt
 Assumptions: The difference in magnitude between force 1 and force 2 is small enough to be considered negligible in the static equilibrium equations.
 
+
+Choice: 1/16" diameter round belt with an outer circumference of 10.25": https://www.mcmaster.com/products/round-belts/round-belts-2~~/ 
+
 ## Shaft Calculations
 
 
