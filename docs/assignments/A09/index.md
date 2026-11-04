@@ -15,6 +15,9 @@ Assumptions: The difference in magnitude between force 1 and force 2 is small en
 
 Choice: 1/16" diameter round belt with an outer circumference of 10.25": https://www.mcmaster.com/products/round-belts/round-belts-2~~/ 
 
+<img width="617" height="260" alt="image" src="https://github.com/user-attachments/assets/9a89a14c-6faf-4002-8539-d8e8200eb75e" />
+
+
 ## Shaft Calculations
 
 
