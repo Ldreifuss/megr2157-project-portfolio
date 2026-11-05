@@ -22,6 +22,9 @@ Choice: 1/16" diameter round belt with an outer circumference of 10.25": https:/
 <img width="617" height="260" alt="image" src="https://github.com/user-attachments/assets/9a89a14c-6faf-4002-8539-d8e8200eb75e" />
 
 
+<img width="455" height="449" alt="image" src="https://github.com/user-attachments/assets/603ed8a4-deec-4dc5-893a-fd0974836b72" />
+
+
 ## Shaft Calculations
 
 
