@@ -3,13 +3,28 @@
 ## Objective
 
 
-## Analyze
+## Deciding Lead Screw Diameter 
 
 
-## Decide
+## Selecting a Nut and Flange
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
-## Communicate
+## Designing the Crosshead
 
 
-## 2157 Assignment
+## Tabulating Costs
+
+
+## Parametric Modeling
+
+
+## Lessons Learned
+
+
+# 2157 Assignment
+
+
+## F.E.A. on Crosshead
+
+
+## Crosshead Drawing
