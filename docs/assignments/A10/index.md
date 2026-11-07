@@ -1,18 +1,16 @@
 # A10 – Lead Screw Design
 
-## Objective
-
-
-## Deciding Lead Screw Diameter 
-
-
-## Selecting a Nut and Flange
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
 ## Designing the Crosshead (Logan D.)
 I discussed with my teammates regarding what beam analysis model to use: "both ends overhanging supports", "supported at both ends", or "fixed at both ends". We decided on "fixed at both ends" model, because that prevents the crosshead from twisting at its ends. 
 
 ## Tabulating Costs
+
+
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
 
 
 ## Parametric Modeling
