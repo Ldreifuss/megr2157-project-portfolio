@@ -4,7 +4,7 @@
 ## Designing the Crosshead (Logan D.)
 I discussed with my teammates regarding what beam analysis model to use: "both ends overhanging supports", "supported at both ends", or "fixed at both ends". We decided on "fixed at both ends" model, because that prevents the crosshead from twisting at its ends. 
 
-## Tabulating Costs
+## Tabulating Costs (Logan D.)
 
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
