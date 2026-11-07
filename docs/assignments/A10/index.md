@@ -7,7 +7,7 @@ I discussed with my teammates regarding what beam analysis model to use: "both e
 ## Tabulating Costs
 
 
-| Header 1 | Header 2 | Header 3 |
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | --- | --- | --- |
 | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
