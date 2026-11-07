@@ -9,7 +9,7 @@ I discussed with my teammates regarding what beam analysis model to use: "both e
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- |
+| 1 | 2 | Lead Screw | $6.95 | $13.90 | --- |
 | --- | --- | --- | Total Cost: | --- | --- |
 
 
