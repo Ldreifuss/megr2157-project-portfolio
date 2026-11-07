@@ -9,8 +9,8 @@
 ## Selecting a Nut and Flange
 _Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
 
-## Designing the Crosshead
-
+## Designing the Crosshead (Logan D.)
+I discussed with my teammates whether to use the "both ends overhanging supports" beam analysis model or the simpler "supported at both ends" model. We decided that, because there is not a significant amount of the crosshead beyond the lead screws on both sides, the "supported at both ends" model would be sufficient.  
 
 ## Tabulating Costs
 
