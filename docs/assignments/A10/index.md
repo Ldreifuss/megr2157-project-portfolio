@@ -10,8 +10,8 @@ I discussed with my teammates regarding what beam analysis model to use: "both e
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 | --- | --- | --- | --- | --- | --- |
 | #1 | 2 | Lead Screw | $6.95 | $13.90 | [Lead Screw Purchase Link](https://www.mcmaster.com/98935A911/) |
-| #2 | --- | Flange Nut | $125.72 | --- | [Flange Nut Purchase Link](https://www.mcmaster.com/95120A111/) |
-| --- | --- | --- | Total Cost: | --- | --- |
+| #2 | 2 | Flange Nut | $125.72 | $251.44 | [Flange Nut Purchase Link](https://www.mcmaster.com/95120A111/) |
+| --- | --- | --- | Total Cost: | $265.34 | --- |
 
 
 ## Parametric Modeling
