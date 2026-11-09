@@ -35,10 +35,10 @@ I discussed with my teammates regarding what beam analysis model to use: "both e
 ## Lessons Learned
 
 
-# 2157 Assignment
+## 2157 Assignment
 
 
-## F.E.A. on Crosshead
+### F.E.A. on Crosshead
 
 
-## Crosshead Drawing
+### Crosshead Drawing
