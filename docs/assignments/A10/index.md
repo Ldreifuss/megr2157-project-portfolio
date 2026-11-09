@@ -5,8 +5,10 @@
 I discussed with my teammates regarding what beam analysis model to use: "both ends overhanging supports", "supported at both ends", or "fixed at both ends". We decided on "fixed at both ends" model, because that prevents the crosshead from twisting at its ends. 
 
 
+<img width="3065" height="1342" alt="CamScanner 11-09-2026 14 49_1" src="https://github.com/user-attachments/assets/03988416-a250-4129-87b9-21009488312b" />
 
 
+<img width="3007" height="1345" alt="CamScanner 11-09-2026 14 49_2" src="https://github.com/user-attachments/assets/44a0de25-6eec-4aea-b1d5-55067b24e85b" />
 
 
 ## Tabulating Costs (Logan Dreifuss)
