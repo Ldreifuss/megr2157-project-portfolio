@@ -11,6 +11,9 @@ I discussed with my teammates regarding what beam analysis model to use: "both e
 <img width="2362" height="1272" alt="Notes page 2" src="https://github.com/user-attachments/assets/667e8a62-0045-496c-a835-435db46d5c6c" />
 
 
+### Drawings:
+
+
 <img width="3065" height="1342" alt="CamScanner 11-09-2026 14 49_1" src="https://github.com/user-attachments/assets/03988416-a250-4129-87b9-21009488312b" />
 
 
