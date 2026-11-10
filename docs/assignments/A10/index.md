@@ -1,9 +1,6 @@
 # A10 – Lead Screw Design
 
 
-# A10 – Lead Screw Design
-
-
 ## Introduction (Ana Carolina)
 
 
