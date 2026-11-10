@@ -93,7 +93,9 @@ I discussed with my teammates regarding what beam analysis model to use: "both e
 
 The diameter of the flange that the team decided on was 1.25 inches, so I used that for the minimum base dimension (converting to mm, which results in a base length of 31.75 mm). With a combination of research and the knowing the height of the lead screws we were using, we decided that the length of the crosshead (between the centerlines of the lead screws) would be 1 foot (which, converted to metric, is 304.8 millimeters).
 
+The team decided that the material for the crosshead would be ASTM A36 steel, which has an elastic modulus of 2x10^11 N/m^2, and a yield strength equal to 2.5x10^8 N/m^2. As such, the stress/strain analysis resulted in a height of 1.054x10^-3 mm, and the deflection analysis resulted in a height of 28.145 mm, which is the height we decided to use for the crosshead.
 
+The stress/strain analysis
 <img width="2362" height="1272" alt="Notes page 2" src="https://github.com/user-attachments/assets/667e8a62-0045-496c-a835-435db46d5c6c" />
 
 
