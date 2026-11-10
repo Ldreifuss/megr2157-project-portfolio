@@ -15,8 +15,6 @@
 - Safety Factor: 4
 
 
-
-
 ## Lead screw design (Ana Carolina)
 
 ### Minimum diameter: 
@@ -95,7 +93,7 @@ The diameter of the flange that the team decided on was 1.25 inches, so I used t
 
 The team decided that the material for the crosshead would be ASTM A36 steel, which has an elastic modulus of 2x10^11 N/m^2, and a yield strength equal to 2.5x10^8 N/m^2. As such, the stress/strain analysis resulted in a height of 1.054x10^-3 mm, and the deflection analysis resulted in a height of 28.145 mm, which is the height we decided to use for the crosshead.
 
-The stress/strain analysis
+
 <img width="2362" height="1272" alt="Notes page 2" src="https://github.com/user-attachments/assets/667e8a62-0045-496c-a835-435db46d5c6c" />
 
 
