@@ -162,6 +162,7 @@ The locations of each max and min for the second design are nearly identical to 
 <img width="1447" height="1120" alt="a10_Drawing" src="https://github.com/user-attachments/assets/431596a0-4b61-4123-9ea1-254262dac2a5" />
 
 
+
 **Downloads**
 
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A10_Assembly.zip" download>Download Assembly zip</a>
