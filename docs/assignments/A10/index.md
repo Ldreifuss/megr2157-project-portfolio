@@ -162,6 +162,12 @@ The locations of each max and min for the second design are nearly identical to 
 <img width="1447" height="1120" alt="a10_Drawing" src="https://github.com/user-attachments/assets/431596a0-4b61-4123-9ea1-254262dac2a5" />
 
 
+## Lesson learned and time spend
+
+  - **Ana:** I learned the importance of understanding thread geometry and how its different dimensions influence mechanical performance. Since this was one of the areas I struggled with the most, I realized that properly interpreting thread geometry is essential for selecting compatible components and accurately evaluating stress, torque, and mechanical efficiency. My time spent was 4 hours and a half.
+  - **Logan:** I (re)learned the importance of checking units and prefixes. I did the calculations for stress/strength and deflection about 3 times because I forgot to convert units from inches to mm, and from millimeters to meters. This assignment took me around 5 hours in total. 
+  - **Taye:** I learned how much the mesh size in an FEA can impact the stress calculations in SolidWorks. In the earlier assignment about FEAs I only started at the medium mesh and went down from there, but in this assignment the bigger changes in mesh had a much greater effect on the stress. This assignment took me about 4 hours total.
+
 
 **Downloads**
 
@@ -174,5 +180,4 @@ The locations of each max and min for the second design are nearly identical to 
 <a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/CrossHead.SLDDRW" download>Download Crosshead Drawing</a>
 
 
--This assignment took me(Taye Mansour) about 4 hours total
 
