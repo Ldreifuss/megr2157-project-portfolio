@@ -58,7 +58,7 @@
 <img width="1422" height="472" alt="image" src="https://github.com/user-attachments/assets/3f428395-68ac-466a-b2fd-0e26ff82bf8b" />
 
 
-## 2) Nut and Flange Design (Ana Carolina)
+## Nut and Flange Design (Ana Carolina)
 
 By applying the following selection criteria to the available nuts and flanges:  
 
