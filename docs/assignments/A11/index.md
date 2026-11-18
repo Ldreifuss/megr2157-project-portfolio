@@ -9,4 +9,5 @@
 ## 2157 Assignment - Drawings (Logan Dreifuss)
 
 
-<img width="909" height="707" alt="image" src="https://github.com/user-attachments/assets/313a04a9-df01-433c-8d69-bfd7019622e7" />
+<img width="916" height="709" alt="image" src="https://github.com/user-attachments/assets/a2ac307f-25f3-458e-82bb-16931f7c3558" />
+
