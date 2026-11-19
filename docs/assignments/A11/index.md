@@ -122,6 +122,17 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
 <img width="995" height="773" alt="image" src="https://github.com/user-attachments/assets/c394be77-5146-40e8-9106-3c18153ad39b" />
 <img width="1012" height="787" alt="image" src="https://github.com/user-attachments/assets/800bd3a6-748d-40a9-885d-73c4b74ea512" />
 
+
+### Frame assembly (Ana Carolina)
+
+<img width="803" height="787" alt="image" src="https://github.com/user-attachments/assets/e6abcbdc-7967-426e-94d8-097803297d20" />
+
+
+**CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
+
+**CAD Links Again:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
+
+
 ## lessons learned and time spent
 
   - **Ana:**  This project reinforced the importance of considering the overall geometry and configuration of an assembly when designing individual components. A component must not only satisfy its own design requirements but also remain compatible with the dimensions, interfaces, and functionality of the other parts in the assembly. My portion of this project took approximately 7 hours to complete.
