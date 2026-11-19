@@ -65,6 +65,13 @@ The chosen coupler is part number 6208K565 on McMaster-Carr.
 
 **Optimization Pass:** This component could potentially be optimized by removing material from its central region and reducing its overall length. However, these modifications would require corresponding adjustments to other components in the assembly to maintain compatibility and proper fit.
 
+### Frame assembly (Ana Carolina)
+
+<img width="803" height="787" alt="image" src="https://github.com/user-attachments/assets/e6abcbdc-7967-426e-94d8-097803297d20" />
+
+
+**CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
+
 ### Vertical frame analysis
 
 &nbsp;&nbsp;&nbsp;&nbsp; To perform this analysis, the calculated reaction forces were applied to the area where the bracket will be mounted during assembly, while a fixed geometry constraint was applied to the bottom end of the frame to represent its support conditions.
