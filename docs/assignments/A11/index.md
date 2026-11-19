@@ -87,6 +87,18 @@ The chosen coupler is part number 6208K565 on McMaster-Carr.
 
 **Optimization Pass:** This component could potentially be optimized by removing material from its central region and reducing its overall length. However, these modifications would require corresponding adjustments to other components in the assembly to maintain compatibility and proper fit.
 
+
+### Frame assembly (Ana Carolina)
+
+<img width="803" height="787" alt="image" src="https://github.com/user-attachments/assets/e6abcbdc-7967-426e-94d8-097803297d20" />
+
+
+**CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
+
+**CAD Links Again:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
+
+
+
 ## Floating bearing (Taye Mansour)
 The floating bearing is where the size of the T bolts and nuts come from. The slot width of the frame is 8.24mm so the chosen bolt is a M8-1.25 with a length of 30mm, enough to pass through the bearing and attach to the slim nut. Each bolt hole is 9mm because it is a normal clearance hole according the machinery's handbook pg.1745. The square base of 3" long came from the width of the frame. We also used both mm and inches because this was a group project and some dimension were already given. The bearing has an RC3 fit class so I made the hole 0.5006+0.0017" and the leadscrew stays at 0.5000".
 
@@ -94,7 +106,6 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
 <img width="1048" height="1078" alt="bearing" src="https://github.com/user-attachments/assets/7da3757b-4e4f-4519-b0e1-26ea3af6eb1a" />
 <img width="921" height="440" alt="image2" src="https://github.com/user-attachments/assets/a0aed2e0-7369-45eb-b093-7f6ac4d98373" />
 <img width="696" height="389" alt="image5" src="https://github.com/user-attachments/assets/dfb2f4f8-1bd4-45f4-880a-0eb19d03cc61" />
-
 
 
 ## Tabulating costs (Taye Mansour)
@@ -121,16 +132,6 @@ The floating bearing is where the size of the T bolts and nuts come from. The sl
 <img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/ce11a8f4-7ccb-4db8-b93b-9e9f68fe3273" />
 <img width="995" height="773" alt="image" src="https://github.com/user-attachments/assets/c394be77-5146-40e8-9106-3c18153ad39b" />
 <img width="1012" height="787" alt="image" src="https://github.com/user-attachments/assets/800bd3a6-748d-40a9-885d-73c4b74ea512" />
-
-
-### Frame assembly (Ana Carolina)
-
-<img width="803" height="787" alt="image" src="https://github.com/user-attachments/assets/e6abcbdc-7967-426e-94d8-097803297d20" />
-
-
-**CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
-
-**CAD Links Again:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
 
 
 ## lessons learned and time spent
